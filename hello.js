@@ -1,4 +1,4 @@
 function sum(a,b){
     console.log(a+b)
 }
-sum(5,5)
+sum(5,100)
